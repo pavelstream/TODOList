@@ -52,7 +52,7 @@ class TODOList:
                 print("Exiting...")
                 break
             else:
-                print("Неверный выбор. Пожлуйста введите 1, 2, или 3.")
+                print("Неверный выбор. Пожалуйста введите 1, 2, или 3.")
 
 
 def main():
